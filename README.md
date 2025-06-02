@@ -29,9 +29,10 @@
 
 ---
 
-## ⚡ Contribution Graph
+### 📈 GitHub Activity Graph
 
-[![Eyuel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ETjoel&theme=tokyo-night&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![ETjoel's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ETjoel&theme=react-dark&area=true)
+
 
 ---
 
