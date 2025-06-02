@@ -29,13 +29,6 @@
 
 ---
 
-### 📈 GitHub Activity Graph
-
-![ETjoel's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ETjoel&theme=react-dark&area=true)
-
-
----
-
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://linkedin.com/in/ejoel-tesfaye)
