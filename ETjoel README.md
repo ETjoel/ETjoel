@@ -23,15 +23,15 @@
 
 ## 📊 GitHub Stats
 
-![Eyuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyueltesfaye&show_icons=true&theme=tokyonight&count_private=true)
-![Eyuel's GitHub Streak](https://streak-stats.demolab.com?user=eyueltesfaye&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyueltesfaye&layout=compact&theme=tokyonight&hide_progress=false)
+![Eyuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ETjoel&show_icons=true&theme=tokyonight&count_private=true)
+![Eyuel's GitHub Streak](https://streak-stats.demolab.com?user=ETjoel&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ETjoel&layout=compact&theme=tokyonight&hide_progress=false)
 
 ---
 
 ## ⚡ Contribution Graph
 
-[![Eyuel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eyueltesfaye&theme=tokyo-night&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Eyuel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ETjoel&theme=tokyo-night&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
