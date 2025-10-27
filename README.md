@@ -5,7 +5,7 @@
 🧠 Passionate about clean architecture, scalable apps, and seamless UX  
 🌍 Currently building cloud-connected mobile & web platforms  
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0f172a)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0f172a)
